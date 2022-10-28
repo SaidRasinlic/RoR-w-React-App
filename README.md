@@ -41,7 +41,9 @@ To get a local copy up and running follow these simple example steps.
 
 ### Usage
 
-- Run ```rails s``` to run the app
+- Run `rails s` to start the app
+- Type `localhost:3000` in your browser search bar
+- Congratulations, your app should run successfully!
 
 ## Author
 
