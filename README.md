@@ -28,7 +28,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Setup
 
-- Clone this repository [repo]('url')
+- Clone this repository [repo](https://github.com/SaidRasinlic/RoR-w-React-App.git)
 - Go to the project directory
 - Run ```bundle install```
 - Please setup the database config/database.yml with your username and password
