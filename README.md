@@ -32,7 +32,7 @@ To get a local copy up and running follow these simple example steps.
 - Go to the project directory
 - Run ```bundle install```
 - Please setup the database configuration located in config/database.yml with your username and password
-  - In your terminal run the following two commands:
+- In your terminal run the following two commands:
     - `rails db:create`
     - `rails db:migrate`
     - `rails db:seed` to populate database
