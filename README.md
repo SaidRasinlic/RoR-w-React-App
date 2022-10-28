@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Hello World ROR with React
+# (Hello World) RoR-w-React-App
 
 > Practice app to use React and Redux with Rails
 Created while learning Ruby on Rails, it's an app with backend and frontend as one unit - Front end created with React and Redux and backed with Ruby on Rails.
