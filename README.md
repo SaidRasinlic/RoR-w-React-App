@@ -31,7 +31,7 @@ To get a local copy up and running follow these simple example steps.
 - Clone this repository [repo](https://github.com/SaidRasinlic/RoR-w-React-App.git)
 - Go to the project directory
 - Run ```bundle install```
-- Please setup the database config/database.yml with your username and password
+- Please setup the database configuration located in config/database.yml with your username and password
   - In your terminal run the following two commands:
     - `rails db:create`
     - `rails db:migrate`
