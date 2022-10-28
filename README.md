@@ -36,6 +36,7 @@ To get a local copy up and running follow these simple example steps.
     - `rails db:create`
     - `rails db:migrate`
     - `rails db:seed` to populate database
+    - `npm install` to install required dependencies
     - `yarn install` to install required dependencies
 
 ### Usage
